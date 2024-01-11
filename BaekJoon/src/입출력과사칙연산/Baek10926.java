@@ -11,5 +11,4 @@ public class Baek10926 {
 		System.out.println(id + "??!");
 		
 	}
-
 }
