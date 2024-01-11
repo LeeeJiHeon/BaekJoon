@@ -1,2 +1,2 @@
 ### 
-<p>$\tiny{very\ tiny\ size}$</p>/<>백준 문제풀이
+<p>$\bf{\large{\color{#6580DD}/<>}}$</p>백준 문제풀이
